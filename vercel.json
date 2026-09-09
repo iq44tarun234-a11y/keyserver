@@ -1,8 +1,7 @@
 {
   "functions": {
     "api/index.py": {
-      "maxDuration": 10,
-      "runtime": "python3.11"
+      "maxDuration": 10
     }
   }
 }
